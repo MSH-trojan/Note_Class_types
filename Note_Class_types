@@ -1,0 +1,18 @@
+Classes in Java:
+
+All Java codes are "Blueprints" to build "objects".
+
+Class types:
+1- Driver: contains only method "main()".
+2- Abstract data types (ADT) : "Blueprints" to print objects.
+3- Utility Classes : Such as "Math" class are used to store constants and utility methods.
+
+An example:
+  consider we have 1000 cars with the same manufacturer and same model.
+  each car was built based one a single blueprint, therefore they are having the same components.
+
+Result:
+
+      In OOD(object-oriented programming) : 
+                                            instance of the class of objects = cars (C1, C2, etc).
+                                            ADT Class = blueprint to build objects(cars here!).
